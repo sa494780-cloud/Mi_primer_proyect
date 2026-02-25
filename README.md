@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Sanchez Santiago Martha Mizuette</h1>
-    <img src="Imagenes/WhatsApp Image 2026-02-23 at 2.18.43 PM.jpeg" alt="Foto de perfil ded mizuette"width="200">
+    <img src="https://share.google/FcZ8MYpqbOxHA0bmz" alt="Foto de perfil ded mizuette"width="200">
 
     <p>
         Hola soy Mizuette, Actualmente estoy en sexto semestre de bachillerato y me encanta todo lo relacionado con diseños de paginas web.
